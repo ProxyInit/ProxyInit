@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Albez0-An7h/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/ProxyInit/count.svg?"  />
 </div>
 
 ###
