@@ -74,8 +74,6 @@ drwxr-xr-x 18 root root 4096 Nov 10 2025 ..
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProxyInit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00)
 
-![Streak Stats](https://streak-stats.demolab.com?user=ProxyInit&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00)
-
 </div>
 
 ---
@@ -96,24 +94,6 @@ drwxr-xr-x 18 root root 4096 Nov 10 2025 ..
 
 <div align="center">
 
-## `[ ENCRYPTED COMMUNICATION CHANNELS ]`
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  INITIATE CONNECTION? [Y/n]                 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF00)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
-
-</div>
-
----
-
-<div align="center">
-
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
@@ -124,10 +104,6 @@ drwxr-xr-x 18 root root 4096 Nov 10 2025 ..
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
-
-### `[ VISITORS DETECTED ]`
-
-![Visitor Count](https://profile-counter.glitch.me/ProxyInit/count.svg)
 
 ```console
 root@github:~# exit
